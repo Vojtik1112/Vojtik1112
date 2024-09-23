@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm vojta</h1>
-<h3 align="center">A skillfull programer</h3>
+<h3 align="center">Newby Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vojtik1112&label=Profile%20views&color=0e75b6&style=flat" alt="vojtik1112" /> </p>
 
