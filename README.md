@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vojta</h1>
-<h3 align="center">A passionate developer and creator</h3>
-<!--- Or keep the original: <h3 align="center">Genius, Billionaire, Playboy, Philanthropist.</h3> --->
+<h3 align="center">Genius, Billionaire, Playboy, Philanthropist.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vojtik1112&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
